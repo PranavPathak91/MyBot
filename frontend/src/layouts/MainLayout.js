@@ -55,11 +55,7 @@ const MainLayout = ({ children }) => {
             justifyContent: 'space-between',
             alignItems: 'center',
             padding: '10px 20px',
-<<<<<<< HEAD
             borderBottom: '1px solid #ddd',
-=======
-            borderBottom: '0px solid #ddd',
->>>>>>> b2cd094 (Initial commit: Document upload functionality with error handling)
             backgroundColor: '#ffffff',
             height: '60px', // Fixed height for header
             minHeight: '60px',

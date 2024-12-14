@@ -28,11 +28,7 @@ const BubbleBar = () => {
           },
         }}
       >
-<<<<<<< HEAD
-        Create image
-=======
         🦖 Create image
->>>>>>> b2cd094 (Initial commit: Document upload functionality with error handling)
       </Button>
       <Button
         variant="contained"
@@ -47,11 +43,7 @@ const BubbleBar = () => {
           },
         }}
       >
-<<<<<<< HEAD
         Get advice
-=======
-        🧐 Get advice
->>>>>>> b2cd094 (Initial commit: Document upload functionality with error handling)
       </Button>
       <Button
         variant="contained"
@@ -66,11 +58,7 @@ const BubbleBar = () => {
           },
         }}
       >
-<<<<<<< HEAD
-        Summarize text
-=======
         📝 Summarize text
->>>>>>> b2cd094 (Initial commit: Document upload functionality with error handling)
       </Button>
       <Button
         variant="contained"
@@ -85,11 +73,7 @@ const BubbleBar = () => {
           },
         }}
       >
-<<<<<<< HEAD
-        Brainstorm
-=======
-       ⚯ Brainstorm
->>>>>>> b2cd094 (Initial commit: Document upload functionality with error handling)
+        ⚯ Brainstorm
       </Button>
       <Button
         variant="contained"
@@ -104,11 +88,7 @@ const BubbleBar = () => {
           },
         }}
       >
-<<<<<<< HEAD
-        More
-=======
         🍔 More
->>>>>>> b2cd094 (Initial commit: Document upload functionality with error handling)
       </Button>
     </Box>
   );
