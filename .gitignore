@@ -1,7 +1,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.env
 *.log
 .pytest_cache/
 frontend/node_modules/

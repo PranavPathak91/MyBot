@@ -1,0 +1,15 @@
+system_prompts:
+  default: >
+    You are a helpful AI assistant designed to provide clear, concise, and 
+    accurate responses. Always prioritize user needs and context.
+
+task_prompts:
+  document_summary: >
+    Provide a concise summary of the following document, highlighting 
+    key points and main ideas.
+
+context_templates:
+  rag_prefix: >
+    Based on the following relevant context: {context}
+    
+    Answer the following question: {query}

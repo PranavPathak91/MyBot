@@ -1,0 +1,15 @@
+models:
+  openai:
+    default_model: "gpt-3.5-turbo"
+    max_tokens: 4096
+    temperature: 0.7
+
+  local:
+    model_path: "./models/local_model"
+    quantization: true
+
+embedding_models:
+  default: "sentence-transformers/all-MiniLM-L6-v2"
+  alternatives:
+    - "all-mpnet-base-v2"
+    - "multi-qa-MiniLM-L6-dot-v1"
